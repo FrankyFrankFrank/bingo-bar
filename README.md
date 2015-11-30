@@ -4,5 +4,9 @@ A basic full-width progress bar with simple arguments made to be inserted into a
 ##Main function
 counterbar(#current, #total)
 
-The first argument takes the counter number for the current item
+##Arguments
+###Current (INT)
+The counter number for the current item
+
+###Total (INT)
 Second argument takes the total number of items
